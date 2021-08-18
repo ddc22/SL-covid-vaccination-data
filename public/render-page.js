@@ -8096,24 +8096,24 @@ module.exports = withSideEffect;
 /***/ }),
 
 /***/ "react-dom/server":
-/*!**************************************************************************************************!*\
-  !*** external "/Users/dehan/Code/covid/covid-vaccination-data/node_modules/react-dom/server.js" ***!
-  \**************************************************************************************************/
+/*!*****************************************************************************************************!*\
+  !*** external "/Users/dehan/Code/covid/SL-covid-vaccination-data/node_modules/react-dom/server.js" ***!
+  \*****************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/dehan/Code/covid/covid-vaccination-data/node_modules/react-dom/server.js");
+module.exports = require("/Users/dehan/Code/covid/SL-covid-vaccination-data/node_modules/react-dom/server.js");
 
 /***/ }),
 
 /***/ "react":
-/*!*********************************************************************************************!*\
-  !*** external "/Users/dehan/Code/covid/covid-vaccination-data/node_modules/react/index.js" ***!
-  \*********************************************************************************************/
+/*!************************************************************************************************!*\
+  !*** external "/Users/dehan/Code/covid/SL-covid-vaccination-data/node_modules/react/index.js" ***!
+  \************************************************************************************************/
 /***/ ((module) => {
 
 "use strict";
-module.exports = require("/Users/dehan/Code/covid/covid-vaccination-data/node_modules/react/index.js");
+module.exports = require("/Users/dehan/Code/covid/SL-covid-vaccination-data/node_modules/react/index.js");
 
 /***/ }),
 

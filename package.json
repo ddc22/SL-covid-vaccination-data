@@ -15,14 +15,19 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@emotion/css": "^11.1.3",
     "@emotion/react": "^11.4.1",
     "@emotion/styled": "^11.3.0",
+    "axios": "^0.21.1",
     "gatsby": "^3.11.1",
     "gatsby-plugin-emotion": "^6.11.0",
     "gatsby-plugin-gatsby-cloud": "^2.11.0",
     "gatsby-plugin-react-helmet": "^4.11.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "react-helmet": "^6.1.0"
+    "react-helmet": "^6.1.0",
+    "recharts": "^2.1.0",
+    "semantic-ui-css": "^2.4.1",
+    "semantic-ui-react": "^2.0.3"
   }
 }
